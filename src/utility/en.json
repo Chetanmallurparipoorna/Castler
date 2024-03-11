@@ -1,0 +1,9 @@
+{
+  "customer": {
+    "insert": "inserted Successfully !!!",
+    "update": "updated Successfully !!!",
+    "delete": "deleted Successfully !!! ",
+    "fetch": "get customer list",
+    "login": "login Successfully !!!"
+  }
+}
